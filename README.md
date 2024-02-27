@@ -29,7 +29,3 @@ Gang Gang
 ## ❓ Accountability
 
 Failure to meet deadlines or contribute meaningfully will result in buying a round at the pub, reinforcing our commitment to teamwork and shared goals.
-
-## 🚀 Conclusion
-
-"Silence of the RAM" is more than a group; it's a pact among dedicated individuals ready to challenge the realms of digital forensics. Our structured approach, grounded in the principles outlined in our Group Contract, ensures a comprehensive and cooperative effort towards our academic and practical objectives.
