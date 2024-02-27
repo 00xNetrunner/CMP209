@@ -1,7 +1,4 @@
-# CMP209
-A repository for silence of the RAM | Digital Forensics CMP209 | Abertay
-
-Gang Gang
+# CMP209 | | Digital Forensics | BSc (Hons) Ethical Hacking @ Abertay
 
 ![RAM Image](./Images/RAM.png "RAM Image")
 
