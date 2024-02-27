@@ -17,7 +17,7 @@ Gang Gang
 ## 📝 Work and Deadlines
 
 - **Collaborative Decision-Making**: Through discussion, we will decide on report content, aiming to finalize decisions well before deadlines.
-- **Drafting and Editing**: Initial drafts shared via Google Docs, with all members contributing to revisions.
+- **Drafting and Editing**: Initial drafts shared via Google Docs and GitHub, with all members contributing to revisions.
 - **Final Compilation**: Harvey Williams oversees the final compilation, ensuring deadlines are met for group commentary.
 
 ## 🛠 Roles and Responsibilities
