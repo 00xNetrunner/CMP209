@@ -1,4 +1,4 @@
-# CMP209 | | Digital Forensics | BSc (Hons) Ethical Hacking @ Abertay
+# CMP209 | Digital Forensics | BSc (Hons) Ethical Hacking @ Abertay
 
 ![RAM Image](./Images/RAM.png "RAM Image")
 
